@@ -1,0 +1,13 @@
+openapi: 3.0.0
+
+info:
+  title: Home Supplies API
+  version: 1.0.0
+
+paths:
+  /products:
+    get:
+      summary: Получить список продуктов
+      responses:
+        '200':
+          description: OK
