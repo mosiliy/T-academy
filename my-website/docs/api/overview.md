@@ -10,4 +10,4 @@ API предоставляет доступ к операциям управле
 ## Основные endpoints
 - GET /products
 - POST /products
-- DELETE /products/{id}
+- DELETE /products/id
