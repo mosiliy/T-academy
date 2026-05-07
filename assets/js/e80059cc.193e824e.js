@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([["449"],{68(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-redoc","id":"home-supplies-api"}')}}]);
